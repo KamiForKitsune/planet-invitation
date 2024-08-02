@@ -19,7 +19,7 @@ const Scene = () => (
                 Ven ven a comer torta
                 <div className='text-sm'>🌠 Lugar:En mi casa</div>
                 <div className='text-sm'>👹Motivo: Mi cumple, un año de Disfrute/Jolgorio </div>
-                <div className='text-sm'>🐬A las... 17:00 </div>
+                <div className='text-sm'>🐬A las... 17:00 del 10 de agosto</div>
             </p>
 
         </div>
