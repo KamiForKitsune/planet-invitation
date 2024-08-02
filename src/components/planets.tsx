@@ -67,8 +67,8 @@ const Scene = () => (
         </div>
         <div className="text-animation">
             <div className="text-wrapper">
-                <h2>Kebin's Birthday</h2>
-                <h2>Kebin's Birthday</h2>
+                <h2>Kebins Birthday</h2>
+                <h2>Kebins Birthday</h2>
             </div>
         </div>
     </>
